@@ -1,0 +1,153 @@
+body {
+ font-family: montserrat, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+ background-color: #f2f1ee;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    background-color: #1A240B;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: playfair, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+h3 {
+    font-family: playfair, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.hello {
+    background-image: url("kaboompics_nature-and-craftsmanship-delicate-flowers-in-handmade-ceramic-vessels-home-accessories-33578.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.button {
+    background-color: #1A240B;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+
+  #blurb {
+    text-align: center;
+    margin: 50px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#blurb p {
+    padding-top: 50px;
+    font-style: italic;
+    font-size: 5vw;
+    line-height: 4vw;
+    font-family: playfair, serif;
+    color: #44372E;
+}
+
+#blurb h3 {
+    padding-bottom: 30px;
+    font-size: 1rem;
+    font-family: montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    color: #A69B92;
+    font-style: normal;
+}
+
+.products {
+    padding-top: 100px;
+    text-align: center;
+    background-color: white;
+}
+
+.products h3 {
+    padding-bottom: 10px;
+    font-size: 1rem;    
+    font-family: montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    color: #A69B92;
+}
+
+.products section {
+    display: inline-block;
+    width: 400px;
+    margin: 30px;
+    padding-bottom: 100px;
+}
+
+.subscribe-section {
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+.call-to-action {
+    margin-bottom: 20px;
+}
+
+.call-to-action p {
+    padding-top: 10px;
+}
+
+.input-field {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.submit-button button {
+    background-color: #ACB598;
+    border: none;
+}
+
+
+  footer {
+    background-color: #1A240B;
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 40px;    
+    text-align: center;
+    height: 3em;
+    letter-spacing: .3rem;
+    }
