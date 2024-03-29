@@ -38,7 +38,7 @@ h3 {
 }
 
 .hello {
-    background-image: url("https://github.com/apytlik/haustier/blob/main/Haustier_Presentation.png");
+    background-image: url("/Haustier_Presentation.png");
     background-size: cover;
     background-position: center;
     width: 100%;
